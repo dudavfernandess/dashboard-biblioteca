@@ -36,14 +36,14 @@ Este dashboard foi desenvolvido em **Streamlit** com **Plotly**.
 
 ## Como Executar Localmente
 
+É necessário instalar as bibliotecas contidas no requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
+
 No terminal, navegue até a pasta do projeto e execute:
 
 ```bash
 streamlit run app.py
-```
-
-Ou a partir da raiz do repositório:
-
-```bash
-streamlit run "c:\CesarSchool\04 - ANÁLISE E VISUALIZAÇÃO DE DADOS\Dashboard\dash_biblioteca\app.py"
 ```
