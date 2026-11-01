@@ -1,12 +1,14 @@
-# 📚 Dashboard Interativo da Biblioteca Pessoal
+# Dashboard Interativo da Biblioteca Pessoal
 
-Este projeto implementa a **Atividade #3** da disciplina de **Análise e Visualização de Dados (CESAR School - 2026.1)**.
+Este projeto foi montado com base nos temas abordados na disciplina de **Análise e Visualização de Dados (CESAR School - 2026.1)** para atender a Atividade #3.
 
-O dashboard foi desenvolvido em **Streamlit** com **Plotly**, apresentando design escuro e moderno inspirado em interfaces analíticas de alta fidelidade (dark slate, neon cyan e hot pink).
+O objetivo do dashboard é tornar visual a biblioteca pessoal de um usuário, mostrando alguns indicadores para valorar a biblioteca. Além disso, também apresenta a opção de roleta, onde o usuário pode fazer o sorteio do próximo livro a ser lido e assim aumentas alguns indicadores apresentados. 
+
+Este dashboard foi desenvolvido em **Streamlit** com **Plotly**.
 
 ---
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 ### 1. Visão Geral (Dashboard)
 - **Caixa 1 (Total de Livros x Lidos)**: Exibe a quantidade total de livros e a proporção de livros lidos vs. não lidos. Reage dinamicamente às seleções feitas na Caixa 2.
@@ -32,7 +34,7 @@ O dashboard foi desenvolvido em **Streamlit** com **Plotly**, apresentando desig
 
 ---
 
-## 🛠️ Como Executar Localmente
+## Como Executar Localmente
 
 No terminal, navegue até a pasta do projeto e execute:
 
